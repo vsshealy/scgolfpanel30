@@ -1,3 +1,6 @@
 .DS_Store
+archive/images
+archive/mockups
+archive/plugins
 node_modules
 vendor
